@@ -11,7 +11,7 @@ This repository contains a bunch of guides for the Orange Pi.
 
 <a href="https://github.com/fishsticksnom/orange_pi_5_3d_printed_case">Orange Pi 5 3d printed case</a>
 
-<a href="./oled_ssd1306/english_oled.md">Add an i2c oled ssd1306 into the Orange Pi 5 / Zero 2</a>
+<a href="./oled_ssd1306/oled_instructions.md">Add an i2c oled ssd1306 into the Orange Pi 5 / Zero 2</a>
 
 <a href="./nvme">How to boot from an nvme Orange Pi 5</a>
 
