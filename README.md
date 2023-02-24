@@ -9,6 +9,10 @@ This repository contains a bunch of guides for the Orange Pi.
 
 ## Index
 
+<a href="https://github.com/fishsticksnom/orange_pi_5_3d_printed_case">Orange Pi 5 3d printed case</a>
+
+<a href="./oled_ssd1306/english_oled.md">Add an i2c oled ssd1306 into the Orange Pi 5 / Zero 2</a>
+
 <a href="./nvme">How to boot from an nvme Orange Pi 5</a>
 
 <a href="./octoprint.md">How to install Octoprint</a>
@@ -17,8 +21,6 @@ This repository contains a bunch of guides for the Orange Pi.
 
 <a href="./english_opiz2_official.md">How to add the official Orange Pi image into the SDCard</a>
 
-<a href="./english_orange_pi_zero2_legacy.md">How to add Armbian with Legacy Kernel into the SDCard</a>
-
-<a href="./oled_ssd1306/english_oled.md">Add an i2c oled ssd1306 into the Orange Pi 5 / zero 2</a>
+<a href="./english_orange_pi_zero2_legacy.md">How to add Armbian with Legacy Kernel into the SDCard Orange Pi Zero 2</a>
 
 </div>
