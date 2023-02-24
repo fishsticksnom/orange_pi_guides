@@ -1,4 +1,8 @@
-<h1 align='center'>Oled SSD1306 i2c</h1>
+<div align="center">
+<h1>i2c Oled SSD1306</h1>
+<img src="https://raw.githubusercontent.com/fishsticksnom/orange_pi_5_3d_printed_case/main/assets/mediaserver.GIF" alt="oled"/>
+</div>
+
 
 ## About
 
@@ -116,6 +120,30 @@ python3 oledtest.py
 <p>For more fonts <a href="http://www.dafont.com/bitmap.php">dafont</a> </p>
 
 Once you download it save it in the fonts folder.
+
+## Run Scripts At Boot
+
+Make a directory call **login_display**
+
+```bash
+mkdir login_display
+```
+
+This repository contains an examples directory, copy all the files and directories into login_display.
+
+
+Edit crontab.
+
+```bash
+crontab -e
+```
+
+Add this at the end of the file.
+
+
+```bash
+@reboot /bin/bash /home/your_user_name_here/login_display/login.sh &
+```
 
 ## Special Thanks
 
