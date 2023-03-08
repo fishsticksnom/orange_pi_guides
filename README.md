@@ -13,7 +13,8 @@ This repository contains a bunch of guides for the Orange Pi.
 
 <a href="./oled_ssd1306/oled_instructions.md">Add an i2c oled ssd1306 into the Orange Pi 5 / Zero 2</a>
 
-<a href="./nvme">How to boot from an nvme Orange Pi 5</a>
+
+<a href="./english_opi5_nvme.md">How to boot from an nvme Orange Pi 5</a>
 
 <a href="./octoprint.md">How to install Octoprint</a>
 
